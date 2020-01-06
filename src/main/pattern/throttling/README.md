@@ -1,4 +1,4 @@
-## Throttling Patterns
+## Throttling Pattern
 
 ### 개요
 * 개별 tenant가 전체 서비스에서 사용하는 리소스를 제어해야 할 때 사용
